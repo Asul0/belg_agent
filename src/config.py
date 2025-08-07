@@ -10,7 +10,7 @@ class Settings:
     )
     GIGACHAT_CREDENTIALS = os.getenv(
         "GIGACHAT_CREDENTIALS_BTA",
-        "ZmMyN2VjYTctYjU5ZC00ODJmLWJmOGUtNjBmNjE0NWY1ODExOjkzODY5M2VkLTNjYTktNDlhNC1iZDVlLWJiZWI0MTlhMmZiZA==",
+        "ВСТАВИТЬ СВОЙ АПИ==",
     )
     GIGACHAT_SCOPE = os.getenv("GIGACHAT_SCOPE_BTA", "GIGACHAT_API_PERS")
 
