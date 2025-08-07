@@ -6,7 +6,7 @@ class Settings:
     BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
     TELEGRAM_BOT_TOKEN = os.getenv(
-        "TELEGRAM_BOT_TOKEN_BTA", "7785191793:AAF8dFApySNW7ScPzRt5KMDBTjIgpiOhnLg"
+        "TELEGRAM_BOT_TOKEN_BTA", "НАПРАВЛЮ ЛИЧНО"
     )
     GIGACHAT_CREDENTIALS = os.getenv(
         "GIGACHAT_CREDENTIALS_BTA",
